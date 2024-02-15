@@ -1,3 +1,7 @@
+* {
+    color: red;    
+}
+
 /*
 
 Type selector
@@ -8,6 +12,7 @@ h2 {
 }
 */
 
+/* Class selector 
 .title {
     color: brown;
     font-size: 30px;
@@ -17,8 +22,11 @@ h2 {
 .bold {
     font-weight: bold;
 }
+*/
 
+/* ID selector
 #title {
     color: steelblue;
     font-size: 50px;
 }
+*/
