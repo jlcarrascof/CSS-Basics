@@ -1,8 +1,19 @@
+/*
+
+Type selector
+
 h2 {
-    color: red;
+    color: orange;
+    font-size: 30px;
+}
+*/
+
+.title {
+    color: brown;
+    font-size: 30px;
     border: 1px solid black;
 }
 
-h1 {
-    color: blue;
+.bold {
+    font-weight: bold;
 }
