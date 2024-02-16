@@ -1,21 +1,9 @@
+#title {
+  color: red;
+}
+
 .title {
-    color: steelblue;
-}
-
-h1 {
-    color: tomato;
-}
-
-#title {
-    color: rebeccapurple
-}
-
-#title {
-    color: green;
-}
-
-body > #title {
-    color: yellow;
+  color: steelblue !important;
 }
 
 /* 1 - Selector de tipo, pseudo-elemento :: */
