@@ -2,6 +2,22 @@
     color: steelblue;
 }
 
-.h1 {
+h1 {
     color: tomato;
 }
+
+#title {
+    color: rebeccapurple
+}
+
+#title {
+    color: green;
+}
+
+body > #title {
+    color: yellow;
+}
+
+/* 1 - Selector de tipo, pseudo-elemento :: */
+/* 10 - Selector de clase, pseudo-clase :, [] */
+/* 100 - Selector de ID */
