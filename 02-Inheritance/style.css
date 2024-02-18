@@ -1,9 +1,5 @@
 #title {
-  color: red;
-}
-
-.title {
-  color: steelblue !important;
+  color: red !important;
 }
 
 /* 1 - Selector de tipo, pseudo-elemento :: */
