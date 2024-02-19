@@ -1,5 +1,10 @@
-#title {
-  color: red !important;
+body {
+  font-family: Arial;
+  color: tomato;
+}
+
+a {
+  color: inherit;
 }
 
 /* 1 - Selector de tipo, pseudo-elemento :: */
