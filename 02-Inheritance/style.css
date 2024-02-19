@@ -1,0 +1,13 @@
+body {
+  font-family: cursive;
+  color: tomato;
+  border: 1px solid #000;
+}
+
+h1 {
+  border: inherit;
+}
+
+/* 1 - Selector de tipo, pseudo-elemento :: */
+/* 10 - Selector de clase, pseudo-clase :, [] */
+/* 100 - Selector de ID */
