@@ -1,7 +1,7 @@
 .box {
     background-color: yellow;
-    max-width: 800px;
-    width: 90%;
+    min-width: 200px;
+    width: 20%;
     height: 100px;
     overflow: hidden;
 }
