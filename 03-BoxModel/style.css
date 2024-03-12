@@ -18,10 +18,29 @@
     padding: 30px 50px;
 
     border-color: purple;
-    border-style: solid;
-        
-    border-top-width: 30px;
-    border-right-width: 10px;
-    border-bottom-width: 20px;
-    border-left-width: 5px;
+       
+    border-width: 10px;
+
+    border-style: ridge;
+
+    border-top-style: dotted;
+    border-right-style: dashed;
+    border-bottom-style: solid;
+    border-left-style: double;
+
+    /*
+
+    Opciones de Border-Style:
+
+    solid
+    dotted
+    dashed
+    double
+    groove
+    ridge
+
+    */
+
+
+
 }
