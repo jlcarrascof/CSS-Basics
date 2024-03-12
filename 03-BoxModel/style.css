@@ -15,5 +15,13 @@
 
     /* padding: 30px 50px 70px 100px; */
 
-    padding: 30px 50px 70px;
+    padding: 30px 50px;
+
+    border-color: purple;
+    border-style: solid;
+        
+    border-top-width: 30px;
+    border-right-width: 10px;
+    border-bottom-width: 20px;
+    border-left-width: 5px;
 }
