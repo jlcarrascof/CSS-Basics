@@ -23,10 +23,10 @@
 
     border-style: ridge;
 
-    border-top-style: dotted;
+    /* border-top-style: dotted;
     border-right-style: dashed;
     border-bottom-style: solid;
-    border-left-style: double;
+    border-left-style: double; */
 
     /*
 
@@ -40,6 +40,18 @@
     ridge
 
     */
+
+    border-style: dotted dashed solid double;
+
+    border-top-color: crimson;
+    border-right-color: black;
+    border-bottom-color: brown;
+    border-left-color: purple;
+
+    /* border-color: crimson black brown purple; */
+
+    border-color: crimson black brown purple;
+    
 
 
 
