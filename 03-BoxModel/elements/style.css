@@ -19,6 +19,9 @@ body {
 .block {
     background-color: teal;
     color: white;
+    padding: 30px;
+    width: 300px;
+    margin: 0 auto;
     margin-bottom: 30px;
 }
 
