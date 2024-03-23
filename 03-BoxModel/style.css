@@ -70,3 +70,15 @@
     
     margin-left: auto;
 }
+
+.main {
+    background-color: steelblue;
+    color: white;
+    margin-bottom: 30px;	
+}
+
+.footer {
+    color: white;
+    background-color: slateblue;
+    margin-top: 50px;
+}
