@@ -11,3 +11,18 @@
     padding: 30px;
     /* margin: 0 auto; */
 }
+
+body {
+    font-size: 25px;
+}
+
+.block {
+    background-color: teal;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.inline {
+    background-color: crimson;
+    color: white;
+}
