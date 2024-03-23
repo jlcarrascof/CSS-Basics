@@ -74,7 +74,12 @@
 .main {
     background-color: steelblue;
     color: white;
-    margin-bottom: 30px;	
+    margin-bottom: 30px;
+    padding: .1px;	
+}
+
+.main-title {
+    margin-top: 40px;
 }
 
 .footer {
