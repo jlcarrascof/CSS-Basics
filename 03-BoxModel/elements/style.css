@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    margin: 0;
 }
 
 .element {
@@ -8,5 +9,5 @@
     background-color: purple;
     border: 30px solid steelblue;
     padding: 30px;
-    margin: 0 auto;
+    /* margin: 0 auto; */
 }
