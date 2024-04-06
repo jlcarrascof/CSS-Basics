@@ -3,6 +3,7 @@
     box-sizing: border-box;
 }
 
-title {
+.title {
     margin: 70px;
+    color: blue;
 }
