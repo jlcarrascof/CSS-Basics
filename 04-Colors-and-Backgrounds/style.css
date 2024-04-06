@@ -13,5 +13,16 @@
     color: #00FF22;
     /* hsl value */
     color: hsl(200, 100%, 50%);
+}
 
+.background {
+    width: 300px;
+    height: 300px;
+    margin: 50px;
+    background-color: #4682b4;
+    /* background-image: url('./images/cody.png');
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: center; */
+    background-image: linear-gradient(hotpink, steelblue);
 }
