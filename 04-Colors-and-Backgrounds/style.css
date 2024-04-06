@@ -5,5 +5,13 @@
 
 .title {
     margin: 70px;
-    color: blue;
+    /* name of the color */
+    color: DarkSlateBlue;
+    /* rgb value */
+    color: rgb(0, 0, 0);
+    /* hex value */
+    color: #00FF22;
+    /* hsl value */
+    color: hsl(120, 100%, 50%);
+
 }
