@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.title {
+    margin: 70px;
+    /* name of the color */
+    color: DarkSlateBlue;
+    /* rgb value */
+    color: rgb(0, 0, 0);
+    /* hex value */
+    color: #00FF22;
+    /* hsl value */
+    color: hsl(200, 100%, 50%);
+}
+
+.background {
+    /* width: 300px;*/
+    height: 600px;
+    /* margin: 50px; */
+    background-color: #4682b4;
+    /* background-image: url('./images/cody.png');
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: center; */
+    background-image: linear-gradient(rgba(255, 105, 180, 0.527), rgba(70, 131, 180, 0.534)),
+        url('./images/tablet.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: .1px;
+}
+
+h2 {
+    margin-top: 100px;
+    color: white;
+    text-align: center;
+    font-size: 60px;
+}
