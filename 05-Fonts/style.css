@@ -27,3 +27,11 @@
     hyphens: auto;
     overflow-wrap: break-word;
 }
+
+.paragraph {
+    text-transform: uppercase;
+}
+
+.paragraph--first {
+    text-transform: lowercase;
+}
