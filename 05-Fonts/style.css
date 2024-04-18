@@ -4,7 +4,7 @@
 }
 
 body {
-    font-family: 'Arial';
+    font-family: 'Raleway', sans-serif;
 }
 
 .card {
@@ -39,4 +39,5 @@ body {
 
 .paragraph--first {
     text-transform: lowercase;
+    border: 1px solid crimson;
 }
