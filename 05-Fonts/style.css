@@ -31,13 +31,21 @@ body {
     /* hyphens: auto; */
     overflow-wrap: break-word;
     text-align: center;
+    font-weight: 900;
+    font-style: italic;
 }
 
 .paragraph {
     text-transform: uppercase;
+    font-weight: 400;
+    font-style: italic;
 }
 
 .paragraph--first {
     text-transform: lowercase;
+    margin-top: 10px;
+    margin-bottom: 20px;
     border: 1px solid crimson;
+    font-weight: 300;
+    font-style: italic;
 }
