@@ -21,5 +21,8 @@
 
 .title {
     /* letter-spacing: 4px; */
-    word-spacing: 10px;
+    /* word-spacing: 10px; */
+    width: 150px;
+    border: 2px solid #fff;
+    hyphens: auto;
 }
