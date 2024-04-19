@@ -34,13 +34,16 @@ body {
     font-weight: 900;
     font-style: italic;
     font-size: 50px;
+    line-height: 1.2;
+    border: 1px solid #fff;
 }
 
 .paragraph {
     text-transform: uppercase;
     font-weight: 400;
     font-style: italic;
-
+    font-size: 16px;
+    line-height: 1.5;
 }
 
 .paragraph--first {
