@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.card {
+    width: 80%;
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 80px;
+    background-color: slateblue;
+    color: #fff;
+    padding: 40px 20px;
+    /* height: 500px; */
+}
+
+.img {
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+.title {
+    /* letter-spacing: 4px; */
+    /* word-spacing: 10px; */
+    /* width: 150px; */
+    /* border: 2px solid #fff; */
+    /* hyphens: auto; */
+    /* line-height: 500px; */
+    text-align: center;
+    overflow-wrap: break-word;
+    text-align: center;
+    font-weight: 900;
+    font-style: italic;
+    font-size: 50px;
+    /* line-height: 1.2; */
+    border: 1px solid #fff;
+}
+
+.paragraph {
+    text-transform: uppercase;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.paragraph--first {
+    text-transform: lowercase;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    /* border: 1px solid crimson; */
+    font-weight: 300;
+    font-style: italic;
+}
