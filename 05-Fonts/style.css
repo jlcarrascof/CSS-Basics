@@ -14,8 +14,8 @@ body {
     margin-top: 80px;
     background-color: slateblue;
     color: #fff;
-    /* padding: 40px 20px; */
-    height: 500px;
+    padding: 40px 20px;
+    /* height: 500px; */
 }
 
 .img {
@@ -30,7 +30,7 @@ body {
     /* width: 150px; */
     /* border: 2px solid #fff; */
     /* hyphens: auto; */
-    line-height: 500px;
+    /* line-height: 500px; */
     text-align: center;
     overflow-wrap: break-word;
     text-align: center;
