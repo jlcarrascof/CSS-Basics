@@ -14,7 +14,8 @@ body {
     margin-top: 80px;
     background-color: slateblue;
     color: #fff;
-    padding: 40px 20px;
+    /* padding: 40px 20px; */
+    height: 500px;
 }
 
 .img {
@@ -29,12 +30,14 @@ body {
     /* width: 150px; */
     /* border: 2px solid #fff; */
     /* hyphens: auto; */
+    line-height: 500px;
+    text-align: center;
     overflow-wrap: break-word;
     text-align: center;
     font-weight: 900;
     font-style: italic;
     font-size: 50px;
-    line-height: 1.2;
+    /* line-height: 1.2; */
     border: 1px solid #fff;
 }
 
