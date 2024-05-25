@@ -4,12 +4,11 @@
 }
 
 html {
-    font-size: 20px;
+    /* font-size: 20px; */
 }
 
 body {
     font-family: Arial;
-    font-size: 50px;
 }
 
 .container {
@@ -27,6 +26,6 @@ body {
     font-size: 1.5rem;
 }
 
-.second {
+.second, .third {
     font-size: 24px;
 }
