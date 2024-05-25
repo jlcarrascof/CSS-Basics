@@ -4,17 +4,19 @@
 }
 
 html {
-    /* font-size: 20px; */
+    font-size: 20px;
 }
 
 body {
     font-family: Arial;
+    font-size: 10px;
 }
 
 .container {
     background-color: slateblue;
     color: #fff;
     padding: 20px;
+    font-size: 16px;
 }
 
 .title {
@@ -28,4 +30,11 @@ body {
 
 .second, .third {
     font-size: 24px;
+}
+
+.fourth {
+    font-size: 2em;
+    /* with html font-size = 20px => 40px */
+    /* with body font-size = 10px => 20px */
+    /* with container font-size = 16px => 32px */
 }
