@@ -16,10 +16,11 @@ body {
 .container {
     background-color: slateblue;
     color: #fff;
-    padding: 20px;
+    /* padding: 20px; */
+    min-height: 100px;
     /* font-size: 16px; */
     /* vw = viewport width 1-100 */
-    width: 30vw;
+    width: 100%;
 }
 
 .title {
