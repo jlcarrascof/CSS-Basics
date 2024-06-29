@@ -25,10 +25,13 @@ body {
 
 .static {
     background-color: midnightblue;
+    position: static;
 }
 
 .relative {
     background-color: tomato;
+    position: relative;
+    margin-top: 100px;
 }
 
 .absolute {
