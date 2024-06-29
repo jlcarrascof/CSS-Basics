@@ -38,6 +38,7 @@ body {
 
 .absolute {
     background-color: purple;
+    position: absolute;
 }
 
 .fixed {
