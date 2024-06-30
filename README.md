@@ -10,3 +10,4 @@ CTRL + / = Comment a line in an HTML file.
 
 Keys on CSS:
 Position: relative, absolute, fixed.
+z-index is important to put elements on top of other elements.
