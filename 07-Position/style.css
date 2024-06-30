@@ -37,8 +37,8 @@ body {
 }
 
 .absolute {
-    background-color: purple;
     position: absolute;
+    background-color: purple;
     top: 60px;
     left: 40px;
 }
