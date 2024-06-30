@@ -38,9 +38,12 @@ body {
 
 .absolute {
     background-color: purple;
-    position: absolute;
+    /* position: absolute; */
 }
 
 .fixed {
     background-color: royalblue;
+    position: fixed;
+    top: 120px;
+    left: 80px;
 }
